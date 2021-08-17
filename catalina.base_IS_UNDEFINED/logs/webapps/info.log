@@ -1,0 +1,21 @@
+2021-08-17 08:47:57.610 [main] INFO  com.imooc.o2o.dao.ShopAuthMapDaoTest - Starting ShopAuthMapDaoTest using Java 1.8.0_201 on AlbertdeMacBook-Pro.local with PID 9404 (started by albert in /Users/albert/Documents/GitHub/o2o_springboot)
+2021-08-17 08:47:57.616 [main] INFO  com.imooc.o2o.dao.ShopAuthMapDaoTest - No active profile set, falling back to default profiles: default
+2021-08-17 08:48:00.148 [main] INFO  com.imooc.o2o.dao.ShopAuthMapDaoTest - Started ShopAuthMapDaoTest in 2.97 seconds (JVM running for 4.023)
+2021-08-17 13:27:46.572 [main] INFO  com.imooc.o2o.dao.ShopAuthMapDaoTest - Starting ShopAuthMapDaoTest using Java 1.8.0_201 on AlbertdeMacBook-Pro.local with PID 11063 (started by albert in /Users/albert/Documents/GitHub/o2o_springboot)
+2021-08-17 13:27:46.576 [main] INFO  com.imooc.o2o.dao.ShopAuthMapDaoTest - No active profile set, falling back to default profiles: default
+2021-08-17 13:27:49.064 [main] INFO  com.imooc.o2o.dao.ShopAuthMapDaoTest - Started ShopAuthMapDaoTest in 2.957 seconds (JVM running for 4.02)
+2021-08-17 13:28:19.397 [main] INFO  com.imooc.o2o.dao.ShopAuthMapDaoTest - Starting ShopAuthMapDaoTest using Java 1.8.0_201 on AlbertdeMacBook-Pro.local with PID 11070 (started by albert in /Users/albert/Documents/GitHub/o2o_springboot)
+2021-08-17 13:28:19.399 [main] INFO  com.imooc.o2o.dao.ShopAuthMapDaoTest - No active profile set, falling back to default profiles: default
+2021-08-17 13:28:21.535 [main] INFO  com.imooc.o2o.dao.ShopAuthMapDaoTest - Started ShopAuthMapDaoTest in 2.395 seconds (JVM running for 3.254)
+2021-08-17 13:29:19.217 [main] INFO  com.imooc.o2o.dao.ShopAuthMapDaoTest - Starting ShopAuthMapDaoTest using Java 1.8.0_201 on AlbertdeMacBook-Pro.local with PID 11078 (started by albert in /Users/albert/Documents/GitHub/o2o_springboot)
+2021-08-17 13:29:19.219 [main] INFO  com.imooc.o2o.dao.ShopAuthMapDaoTest - No active profile set, falling back to default profiles: default
+2021-08-17 13:29:21.368 [main] INFO  com.imooc.o2o.dao.ShopAuthMapDaoTest - Started ShopAuthMapDaoTest in 2.435 seconds (JVM running for 3.3)
+2021-08-17 13:29:29.055 [main] INFO  com.imooc.o2o.dao.ShopAuthMapDaoTest - Starting ShopAuthMapDaoTest using Java 1.8.0_201 on AlbertdeMacBook-Pro.local with PID 11081 (started by albert in /Users/albert/Documents/GitHub/o2o_springboot)
+2021-08-17 13:29:29.057 [main] INFO  com.imooc.o2o.dao.ShopAuthMapDaoTest - No active profile set, falling back to default profiles: default
+2021-08-17 13:29:31.198 [main] INFO  com.imooc.o2o.dao.ShopAuthMapDaoTest - Started ShopAuthMapDaoTest in 2.396 seconds (JVM running for 3.247)
+2021-08-17 13:53:27.437 [main] INFO  com.imooc.o2o.dao.ShopAuthMapDaoTest - Starting ShopAuthMapDaoTest using Java 1.8.0_201 on AlbertdeMacBook-Pro.local with PID 11264 (started by albert in /Users/albert/Documents/GitHub/o2o_springboot)
+2021-08-17 13:53:27.440 [main] INFO  com.imooc.o2o.dao.ShopAuthMapDaoTest - No active profile set, falling back to default profiles: default
+2021-08-17 13:53:30.282 [main] INFO  com.imooc.o2o.dao.ShopAuthMapDaoTest - Started ShopAuthMapDaoTest in 3.151 seconds (JVM running for 4.481)
+2021-08-17 13:53:38.295 [main] INFO  com.imooc.o2o.O2oApplication - Starting O2oApplication using Java 1.8.0_201 on AlbertdeMacBook-Pro.local with PID 11268 (/Users/albert/Documents/GitHub/o2o_springboot/target/classes started by albert in /Users/albert/Documents/GitHub/o2o_springboot)
+2021-08-17 13:53:38.298 [main] INFO  com.imooc.o2o.O2oApplication - No active profile set, falling back to default profiles: default
+2021-08-17 13:53:40.195 [main] INFO  com.imooc.o2o.O2oApplication - Started O2oApplication in 2.257 seconds (JVM running for 3.063)
